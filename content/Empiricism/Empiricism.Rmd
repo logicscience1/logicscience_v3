@@ -1,0 +1,13 @@
+---
+title: "Empiricism"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Homeostasis
+
+Yoga
+
+Artificial Life

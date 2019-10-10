@@ -22,5 +22,27 @@ Skype : logicscience
 Email : programmer@logicscience.co.uk</description>
     </item>
     
+    <item>
+      <title>Dataops_v2</title>
+      <link>/dataops/dataops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dataops/dataops/</guid>
+      <description>Tools
+Samples
+Examples</description>
+    </item>
+    
+    <item>
+      <title>Empiricism</title>
+      <link>/empiricism/empiricism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/empiricism/empiricism/</guid>
+      <description>Homeostasis
+Yoga
+Artificial Life</description>
+    </item>
+    
   </channel>
 </rss>
