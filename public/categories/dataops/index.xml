@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LogicScience</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on LogicScience</description>
+    <title>dataops on LogicScience</title>
+    <link>/categories/dataops/</link>
+    <description>Recent content in dataops on LogicScience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/dataops/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Artificial Life</title>
-      <link>/2019/10/10/artificial-life/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/10/10/artificial-life/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>powerBI</title>
@@ -27,16 +18,6 @@
       
       <guid>/2019/10/10/powerbi-tool/</guid>
       <description>powerBI is a tool from Microsoft that is very good for visualising data and publishing to the powerBI service. I use it at work where we have substantial access to microsoft tools. This is not a limiting factor however because similarly to working in R IDE with markdown and shiny, it is possible to include both python and R code with powerBi. There is also convenient connectors to almost any data source including Azure Blob storage which I currently use for my work data.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/</guid>
-      <description> &amp;mdash; title: Homeostasis author: David Brand date: &amp;lsquo;2019-10-10&amp;rsquo; slug: homeostasis categories: [] tags:
-- physiology </description>
     </item>
     
   </channel>

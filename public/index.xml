@@ -6,10 +6,28 @@
     <description>Recent content on LogicScience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2019 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Life</title>
+      <link>/2019/10/10/artificial-life/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/10/artificial-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerBI</title>
+      <link>/2019/10/10/powerbi-tool/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/10/powerbi-tool/</guid>
+      <description>powerBI is a tool from Microsoft that is very good for visualising data and publishing to the powerBI service. I use it at work where we have substantial access to microsoft tools. This is not a limiting factor however because similarly to working in R IDE with markdown and shiny, it is possible to include both python and R code with powerBi. There is also convenient connectors to almost any data source including Azure Blob storage which I currently use for my work data.</description>
+    </item>
     
     <item>
       <title>Contact</title>
