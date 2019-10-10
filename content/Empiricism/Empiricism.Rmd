@@ -6,7 +6,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-Homeostasis
+Homeostasis![](/Empiricism/Empiricism_files/homeostasis-cbd-oil-southport.jpg)
+[book](https://www.amazon.co.uk/Breaking-out-Homeostasis-Mind-Body-Continue-ebook/dp/B077ZZ1DK2)
 
 Yoga
 

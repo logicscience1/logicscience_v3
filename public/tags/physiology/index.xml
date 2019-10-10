@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physiology on LogicScience</title>
+    <link>/tags/physiology/</link>
+    <description>Recent content in physiology on LogicScience</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/physiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homeostasis</title>
+      <link>/2019/10/10/homeostasis/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/10/homeostasis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
